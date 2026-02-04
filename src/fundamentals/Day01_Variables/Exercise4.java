@@ -4,6 +4,5 @@ public class Exercise4 {
         double radio = 5.0;
         double area = PI * Math.pow(radio,2);
         System.out.println("Área del circulo:" + area);
-
     }
 }

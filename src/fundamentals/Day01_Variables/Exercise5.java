@@ -3,6 +3,5 @@ public class Exercise5 {
         double Decimal = 5.345;
         int Truncado = (int) Decimal;
         System.out.println("Numero decimal:" + Decimal + "; Numero truncado:" + Truncado);
-
     }
 }
